@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-FFFFFFFFFFFFFour
-=======
 our
->>>>>>> staging
 4
